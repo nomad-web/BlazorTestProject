@@ -1,0 +1,2 @@
+# BlazorTestProject
+simple test
